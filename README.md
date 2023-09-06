@@ -1,10 +1,6 @@
-# simple_git_commands
-Git Commands
-============___
-
-_A list of my commonly used Git commands_
-
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+# simple_git_commands 👨‍🏫 👨‍💻
+===============================
+In this mini-article, my goal is to try to explain the git stages and the Git commands. Perhaps, at least it might be easier to understand a specific command based where it is used. at the end of the day every developer must get good at git 💯.
 
 --
 
@@ -69,5 +65,20 @@ _A list of my commonly used Git commands_
 
 
 ### ===================================================================
+## Working directory
+#### The actual file's states in the file system, they can be tracked or untracked, they can be changed or deleted.
 
+##  The staging area or INDEX
+#### The area where we prepared a set of files for a new version based its changes.
+
+## The HEAD
+#### It's the pointer in the current branch, it has the complete repository history.
+
+### Remote Repo 
+### In simple words its' just a space provided to share and collaborate your code with the community and frineds . 
 ![Example Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1644871667728/U8uUkYIQa.png?auto=compress,format&format=webp)
+
+========================================================================>
+### Conclusion 
+
+We have explored a wide range of Git commands essential for effective version control management and seamless code collaboration. Whether you’re an experienced developer or just starting out, So in order to master git the tricks here to use it.  
