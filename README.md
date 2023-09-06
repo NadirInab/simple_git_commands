@@ -1,6 +1,6 @@
 # simple_git_commands 👨‍🏫 👨‍💻
 ===============================
-In this mini-article, my goal is to try to explain the git stages and the Git commands. Perhaps, at least it might be easier to understand a specific command based where it is used. at the end of the day every developer must get good at git 💯.
+#### In this mini-article, my goal is to try to explain the git stages and the Git commands. Perhaps, at least it might be easier to understand a specific command based where it is used. at the end of the day every developer must get good at git 💯.
 
 --
 
