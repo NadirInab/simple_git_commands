@@ -80,8 +80,8 @@
 
 ========================================================================>
 ### Sources
-#### [GIT]([https://example.com](https://git-scm.com/))
-#### [GIT]([[https://example.com](https://git-scm.com/](https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub)))
+#### [![GIT]]([https://example.com](https://git-scm.com/))
+#### [![GIT]]([[https://example.com](https://git-scm.com/](https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub)))
 ####
 
 ========================================================================>
