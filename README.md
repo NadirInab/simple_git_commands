@@ -79,6 +79,12 @@
 ![Example Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1644871667728/U8uUkYIQa.png?auto=compress,format&format=webp)
 
 ========================================================================>
+### Sources
+#### [GIT]([https://example.com](https://git-scm.com/))
+#### [GIT]([[https://example.com](https://git-scm.com/](https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub)))
+####
+
+========================================================================>
 ### Conclusion 
 
 We have explored a wide range of Git commands essential for effective version control management and seamless code collaboration. Whether you’re an experienced developer or just starting out, So in order to master git the tricks here to use it.  
