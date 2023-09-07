@@ -1,5 +1,5 @@
 ##
- <h1 align="center">Simple_git_commands 👨‍🏫 👨‍💻</h1> 
+ <h1 align="center">simple_git_commands 👨‍🏫 👨‍💻</h1> 
  
 ```md
 
@@ -8,7 +8,7 @@ Perhaps, at least it might be easier to understand a specific command based wher
  at the end of the day every developer must get good at git 💯.
  ```
 
-### History and Fcats
+### History and Facts
 - In 2005, Linus Torvalds created Git to address the shortcomings of existing version control systems used for the development of the Linux kernel.
 - Git was designed to be a distributed version control system, allowing developers to work on a project independently, even without network access or a central server.
 - Git gained popularity within the open-source community due to its speed, scalability, and ability to handle large codebases.
@@ -138,6 +138,16 @@ In simple words its' just a space provided to share and collaborate your code wi
   Semver ==> Semantic verisoning 1.0.0 ==> 1.0.1 ==> 1.1.0 
   Backward Compatibilty . 
   Monkey patching
+  
+```
+
+### Good To Know
+
+```md
+
+  git merge
+  git rebase
+  git squash
   
 ```
 
