@@ -1,0 +1,19 @@
+{
+    "name": "learning/git",
+    "description": "a readme file to learn basic git commands",
+    "require": {
+        "sebastian/version": "^3.0"
+    },
+    "license": "FreeLife",
+    "autoload": {
+        "psr-4": {
+            "Learning\\Git\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nadir inab",
+            "email": "nadir.inab.dev@gmail.com"
+        }
+    ]
+}
