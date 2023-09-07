@@ -130,6 +130,16 @@ In simple words its' just a space provided to share and collaborate your code wi
 - https://git-scm.com/
 - https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub
 - https://medium.com/@onejohi/git-understanding-the-basics-ba004a20dacc
+  
+### Versioning (Calver && Smever) 
+```md
+  Calver ==> Calendar 23-09
+
+  Semver ==> Semantic verisoning 1.0.0 ==> 1.0.1 ==> 1.1.0 
+  Backward Compatibilty . 
+  Monkey patching
+  
+```
 
 ### Conclusion 
  <p>
