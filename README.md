@@ -1,6 +1,18 @@
 ##
  <h1 align="center">simple_git_commands 👨‍🏫 👨‍💻</h1> 
- 
+ <div align="center">
+     <img src="https://www.freecodecamp.org/news/content/images/2022/07/git-github.png" alt="Image Alt Text">
+</div>
+
+![Git](https://img.shields.io/badge/git-gold.svg)
+![GitHub](https://img.shields.io/badge/github-green.svg)
+![Git](https://img.shields.io/badge/VersionControl-green.svg)
+![Git](https://img.shields.io/badge/TrackingChanges-red.svg)
+![Git](https://img.shields.io/badge/Collaboration-yellow.svg)
+![Git](https://img.shields.io/badge/pullRequest-purple.svg)
+![Git](https://img.shields.io/badge/merging-diamond.svg)
+![Git](https://img.shields.io/badge/OpenSource-khaki.svg)
+
 ```md
 
 In this mini-article, my goal is to try to explain the git stages and the Git commands.
