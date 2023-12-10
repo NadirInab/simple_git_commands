@@ -141,7 +141,7 @@ In simple words its' just a space provided to share and collaborate your code wi
 ### Sources
 - https://git-scm.com/
 - https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub
-- https://medium.com/@onejohi/git-understanding-the-basics-ba004a20dacc
+- https://medium.com/@nadir.inab.dev/git-its-essential-commands-e2f56102b5ff
   
 ### Versioning (Calver && Smever) 
 ```md
